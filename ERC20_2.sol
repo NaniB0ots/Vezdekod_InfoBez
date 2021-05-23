@@ -2,10 +2,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-/**
- * @title Storage
- * @dev Store & retrieve value in a variable
- */
+
 contract MyErcToken {
 
     string public constant name = "MyErcToken";
